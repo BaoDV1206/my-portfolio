@@ -1,0 +1,18 @@
+﻿# Node / Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Java & Maven / Backend
+target/
+**/target/
+.mvn/
+*.iml
+.flattened-pom.xml
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
